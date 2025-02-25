@@ -1,4 +1,4 @@
-#Authors- Daniel Cohen ID: 213509714, Gal Elhiani: 207233248, Or Adar: 305468506, Dmitri Shpak: 321371320
+#Authors- Daniel Cohen, Gal Elhiani, Or Adar, Dmitri Shpak
 
 import ast
 
